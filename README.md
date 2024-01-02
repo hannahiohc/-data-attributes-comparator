@@ -1,6 +1,7 @@
 # Data Attributes Comparator
 
 This JavaScript bookmarklet allows you to compare data-attributes between KR and US page. It shows a modal that displays the results, categorizing them into matched and mismatched attributes.
+<img width="800" alt="Screen Shot 2023-12-28 at 14 20 44 PM" src="https://github.com/hannahiohc/data-attributes-comparator/assets/81858017/3ee3cc0c-5229-4096-8215-47fa5908566f">
 
 ## How to Use
 
